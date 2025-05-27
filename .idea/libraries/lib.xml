@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JFree/lib/jcommon-1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JFree/lib/junit-4.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JFree/lib/jmock-2.13.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JFree/lib/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JFree/lib/hamcrest-library-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/JFree/lib/jfreechart-1.0.19.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
