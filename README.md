@@ -42,16 +42,10 @@ The IntelliJ Java project includes the following:
 
 ## 🚀 Deliverables
 
-1. ✅ Three Unit Test Files:
+ ✅ Three Unit Test Files:
    - `WeekClassTest.java`
    - `DiscountCalculatorTest.java`
    - `DiscountManagerTest.java`
-
-2. 🐞 **Bugs Report** (Format):
-   - **Method Tested**
-   - **Test Case Description**
-   - **Status** (Passed / Failed)
-   - **Additional Notes** (Bugs found, assumptions, or enhancements)
 
 ---
 
