@@ -65,10 +65,4 @@ The IntelliJ Java project includes the following:
 
 ---
 
-## 📁 Example Output in Bugs Report
-
-| Method              | Test Case Description                     | Status  | Notes                         |
-|---------------------|-------------------------------------------|---------|-------------------------------|
-| `applyDiscount()`   | Apply 20% discount to $100 item           | Passed  |                               |
-| `getWeek(int, int)` | Week from year 2024 and week 35           | Failed  | Returned null for valid input|
 
